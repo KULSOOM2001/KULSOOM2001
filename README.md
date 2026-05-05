@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Kulsoom
 
-<!--
-**KULSOOM2001/KULSOOM2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student @ SZABIST Karachi**  
+CGPA: 3.68 | Current semester: 3.95
 
-Here are some ideas to get you started:
+### What I build
+- Enterprise systems with ASP.NET MVC & Node.js
+- REST APIs with JWT authentication
+- Database-driven workflows (SQL Server, PostgreSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+React.js
+
+### Featured projects
+⭐ **Leave Management System** – Multi-level approval workflow with RBAC  
+⭐ **PostgreSQLAPI** – JWT-authenticated REST API
+
+### Connect with me
+📫 kulsoomjawed851@gmail.com
+
+### Achievements
+🎤 Invited Lecturer @ ICELECS 2024  
+🏆 2nd Runner Up, FOP Hackathon 2023
