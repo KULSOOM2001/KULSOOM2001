@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,4a154b&height=220&section=header&text=Kulsoom%20Jawed&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=CS%20Student%20%7C%20Network%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16&descColor=BB86FC&animation=fadeIn" />
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;ZABEFEST+Hackathon+2026+🏆)](https://git.io/typing-svg)
