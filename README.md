@@ -1,23 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,4a154b&height=220&section=header&text=Kulsoom%20Jawed&fontSize=65&fontColor=FFFFFF&fontAlignY=35&desc=CS%20Student%20%7C%20Network%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=16&descColor=BB86FC&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
----
+# 👩‍💻 Kulsoom Jawed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;ZABEFEST+Hackathon+2026+🏆)](https://git.io/typing-svg)
+## Computer Science Student | Network Engineer | Full-Stack Developer
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;ZABEFEST+Hackathon+2026+🏆)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KULSOOM2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=FF4D2E&text_color=FFFFFF" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULSOOM2001&theme=radical&hide_border=true&background=0D1117&stroke=00B4D8&ring=FF4D2E&fire=FF4D2E&currStreakLabel=00B4D8" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 </div>
 
@@ -25,17 +16,21 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science student** at **SZABIST Karachi** with a passion for building scalable enterprise systems and designing robust network infrastructures.
+<table>
+  <tr>
+    <td width="60%">
+      <p>I'm a <b>Computer Science student</b> at <b>SZABIST Karachi</b> with a passion for building scalable enterprise systems and designing robust network infrastructures.</p>
+      <blockquote>💬 <i>"Building enterprise solutions that make a difference!"</i></blockquote>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=KULSOOM2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=BB86FC&text_color=FFFFFF&hide_title=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
-| | |
-|:--|:--|
-| 👩‍💻 **Name** | Kulsoom Jawed |
-| 🏛️ **University** | SZABIST Karachi |
-| 📚 **Overall CGPA** | 3.68 |
-| 🚀 **Current Semester CGPA** | 3.95 |
-| 💡 **Interests** | Network Design, Full-Stack Development, Database Systems |
-
-> 💬 *"Building enterprise solutions that make a difference!"*
+| 👩‍💻 **Name** | 🏛️ **University** | 📚 **CGPA** | 🚀 **Semester CGPA** |
+|:------------:|:-----------------:|:-----------:|:--------------------:|
+| Kulsoom Jawed | SZABIST Karachi | 3.68 | 3.95 |
 
 ---
 
@@ -78,27 +73,24 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
       <h3 align="center">🌊 KarachiFlow</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </div>
-      <p align="center">Real-time utility crisis tracker for Karachi</p>
       <p align="center"><b>📝 Report → 👥 Verify → ⚙️ Fix</b></p>
       <p align="center">
         <a href="https://karachiflow-production.up.railway.app">🌐 Live</a> ·
         <a href="https://github.com/KULSOOM2001/karachiflow">📂 Repo</a>
       </p>
-      <p align="center">🏆 ZABEFEST Hackathon 2026</p>
+      <p align="center">🏆 <b>ZABEFEST Hackathon 2026</b></p>
     </td>
     <td width="50%">
       <h3 align="center">⭐ Leave Management</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </div>
-      <p align="center">Enterprise leave management with RBAC</p>
-      <p align="center"><b>🔐 Multi-Level · ✅ Approval · 📊 Dashboard</b></p>
+      <p align="center"><b>🔐 RBAC · ✅ Multi-Level · 📊 Dashboard</b></p>
     </td>
   </tr>
   <tr>
@@ -109,7 +101,6 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </div>
-      <p align="center">JWT-authenticated REST API</p>
       <p align="center"><b>🔒 Secure · 🗄️ RESTful · 📡 Scalable</b></p>
     </td>
     <td width="50%">
@@ -119,7 +110,6 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
         <img src="https://img.shields.io/badge/OSPF-005FAD?style=flat-square&logo=cisco&logoColor=white" />
         <img src="https://img.shields.io/badge/6_Campuses-0078D4?style=flat-square&logo=cisco&logoColor=white" />
       </div>
-      <p align="center">Multi-campus enterprise network</p>
       <p align="center"><b>🏢 6 Campuses · 🔀 OSPF · 📡 30+ VLANs</b></p>
     </td>
   </tr>
@@ -140,11 +130,9 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 > 20 million Karachiites face daily load shedding, water shortages, and tanker crises with zero real-time tracking. **KarachiFlow** solves this with community-powered reporting and verification.
 
-| Sustainability | How |
-|:---:|---|
-| 🌿 Environmental | Water & power crisis tracking with zone analytics |
-| 👥 Social | Crowdsourced verification + public transparency |
-| 💰 Economic | Smart prioritization for business continuity |
+| 🌿 Environmental | 👥 Social | 💰 Economic |
+|:---:|:---:|:---:|
+| Crisis tracking + zone analytics | Crowdsourced verification + transparency | Smart prioritization for business continuity |
 
 <div align="center">
 
@@ -157,24 +145,21 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ## 🏆 Achievements
 
-<div align="center">
-
 | 🎤 | **Invited Lecturer** | ICELECS 2024 | *Guest Speaker* |
 |:--:|:---------------------|:------------|:---------------|
 | 🥈 | **Hackathon** | FOP 2023 | *2nd Runner Up* |
 | 🚀 | **Hackathon** | ZABEFEST 2026 | *KarachiFlow* |
 
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULSOOM2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=BB86FC&fire=BB86FC&currStreakLabel=00B4D8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8" width="49%" />
 
-<img src="https://ghchart.rshah.org/KULSOOM2001" alt="GitHub Contributions" width="100%" />
+<img src="https://ghchart.rshah.org/KULSOOM2001" width="100%" />
 
 </div>
 
@@ -194,23 +179,18 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ## 🎯 Currently Learning
 
-<div align="center">
-
 | 🚀 Technology | 📊 Progress | 🎯 Goal |
 |:------------:|:----------:|:-------:|
-| **React.js** | ████████░░ 80% | Frontend Mastery |
-| **Cloud & DevOps** | ██████░░░░ 60% | Railway, Docker |
-| **Network Security** | ████░░░░░░ 40% | CCNP Level |
-
-</div>
+| **React.js** | ████████░░ 80% | Frontend |
+| **Cloud & DevOps** | ██████░░░░ 60% | Railway/Docker |
+| **Network Security** | ████░░░░░░ 40% | CCNP |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d,4a154b&height=120&section=footer" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-
-*⭐ Star my repos if you find them useful! ⭐*
+⭐ *Star my repos if you find them useful!* ⭐
 
 </div>
