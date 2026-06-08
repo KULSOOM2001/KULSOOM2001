@@ -188,7 +188,7 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 | **React.js** | ████████░░ 80% | Frontend |
 | **Cloud & DevOps** | ██████░░░░ 60% | Railway |
 | **Network Security** | ████░░░░░░ 40% | CCNA |
-
+| **MongoDB + Express** | ██████░░░░ 60% | REST APIs |
 ---
 
 <div align="center">
