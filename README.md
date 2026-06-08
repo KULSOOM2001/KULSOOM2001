@@ -62,7 +62,9 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
+
+<table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td width="50%">
       <h3 align="center">🌊 KarachiFlow</h3>
@@ -109,6 +111,8 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
