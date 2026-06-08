@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=200&section=header&text=Kulsoom%20Jawed&fontSize=60&fontAlignY=35&desc=CS%20Student%20%7C%20Network%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&animation=fadeIn" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=250&section=header&text=Kulsoom%20Jawed&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=CS%20Student%20%7C%20Network%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=CCCCCC&animation=fadeIn" />
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;ZABEFEST+Hackathon+2026+🏆)](https://git.io/typing-svg)
@@ -208,7 +207,7 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15&height=150&section=footer" />
 
 *⭐ Star my repos if you find them useful! ⭐*
 
