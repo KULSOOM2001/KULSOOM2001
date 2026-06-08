@@ -151,10 +151,9 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 <div align="center">
 
-### 🔥 Streak Stats
+### 🔥 Streak & Stats
 
-[![GitHub Streak](https://github-readme-streak-stats-sable.vercel.app?user=KULSOOM2001&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=BB86FC&fire=BB86FC&currStreakLabel=00B4D8)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=KULSOOM2001&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=BB86FC&fire=BB86FC&currStreakLabel=00B4D8)](https://git.io/streak-stats)
 
 ### 📅 Contribution Calendar
 
