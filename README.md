@@ -16,21 +16,16 @@
 
 ## 🎓 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>I'm a <b>Computer Science student</b> at <b>SZABIST Karachi</b> with a passion for building scalable enterprise systems and designing robust network infrastructures.</p>
-      <blockquote>💬 <i>"Building enterprise solutions that make a difference!"</i></blockquote>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KULSOOM2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=BB86FC&text_color=FFFFFF&hide_title=true" width="100%" />
-    </td>
-  </tr>
-</table>
+I'm a **Computer Science student** at **SZABIST Karachi** with a passion for building scalable enterprise systems and designing robust network infrastructures.
 
 | 👩‍💻 **Name** | 🏛️ **University** | 📚 **CGPA** | 🚀 **Semester CGPA** |
 |:------------:|:-----------------:|:-----------:|:--------------------:|
 | Kulsoom Jawed | SZABIST Karachi | 3.68 | 3.95 |
+
+| 💡 **Interests** | Network Design | Full-Stack Development | Database Systems |
+|:-----------------:|:-------------:|:----------------------:|:----------------:|
+
+> 💬 *"Building enterprise solutions that make a difference!"*
 
 ---
 
