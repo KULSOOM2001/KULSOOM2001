@@ -186,8 +186,8 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 | 🚀 Technology | 📊 Progress | 🎯 Goal |
 |:------------:|:----------:|:-------:|
 | **React.js** | ████████░░ 80% | Frontend |
-| **Cloud & DevOps** | ██████░░░░ 60% | Railway/Docker |
-| **Network Security** | ████░░░░░░ 40% | CCNP |
+| **Cloud & DevOps** | ██████░░░░ 60% | Railway |
+| **Network Security** | ████░░░░░░ 40% | CCNA |
 
 ---
 
