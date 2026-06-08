@@ -151,10 +151,15 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULSOOM2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=BB86FC&fire=BB86FC&currStreakLabel=00B4D8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8" width="49%" />
+### 🔥 Streak & Stats
 
-<img src="https://ghchart.rshah.org/KULSOOM2001" width="100%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=KULSOOM2001&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=BB86FC&fire=BB86FC&currStreakLabel=00B4D8)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00B4D8)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📅 Contribution Calendar
+
+![GitHub Contributions](https://ghchart.rshah.org/KULSOOM2001)
 
 </div>
 
