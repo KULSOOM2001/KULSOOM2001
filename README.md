@@ -6,7 +6,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Network+Design+Enthusiast;Full-Stack+Developer;ZABEFEST+Hackathon+2026!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Network+Design+Enthusiast;Full-Stack+Developer;Always+learning+new+tech!)
 
 ---
 
@@ -37,15 +37,11 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Networking
 
@@ -68,30 +64,9 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ## 🏆 ZABEFEST Hackathon 2026 — KarachiFlow
 
-<div align="center">
-
-![ZABEFEST](https://img.shields.io/badge/ZABEFEST-Hackathon%202026-ff4d2e?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
-
 [Live Demo](https://karachiflow-production.up.railway.app) · [Repo](https://github.com/KULSOOM2001/karachiflow)
 
-</div>
-
-### 🎯 Problem
-20 million Karachiites face daily utility crises — load shedding with no schedule, water shortages with no tracking, and tanker mafia exploiting citizens. Current system: WhatsApp groups with zero accountability.
-
-### 💡 Solution
-**Report → Verify → Fix**
-- 📝 **Citizen Reporting:** 3-step form, 20 Karachi zones, offline-first
-- 👥 **Crowdsourced Verification:** Community confirms issues, 3+ votes = auto-verified
-- ⚙️ **Authority Dashboard:** Resolve, escalate, official updates with ETA
-
-### ✅ Requirements Met
-- 🌿 Environmental Sustainability
-- 👥 Social Sustainability
-- 💰 Economic Sustainability
-- 8/12 Challenge Components
-- 6/6 Mandatory Constraints
+**Report → Verify → Fix** — Citizens report utility crises, community verifies, authorities act. 20 Karachi zones, real-time heatmap, offline-first. Built with Node.js, Express, MongoDB, Vanilla JS.
 
 ---
 
@@ -101,7 +76,6 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 |:-----------|:------|:------:|
 | 🎤 **Invited Lecturer** | ICELECS 2024 | Guest Speaker |
 | 🏆 **Hackathon** | FOP Hackathon 2023 | 2nd Runner Up |
-| 🚀 **Hackathon** | ZABEFEST 2026 | Participant — KarachiFlow |
 
 ---
 
@@ -130,7 +104,6 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 |:-----------|:------:|
 | **React.js** | 🔄 In Progress |
 | **Advanced Networking** | 🔄 In Progress |
-| **Cloud Deployment** | 🔄 In Progress |
 
 ---
 
