@@ -1,23 +1,125 @@
-## 👋 Hi, I'm Kulsoom
+<div align="center">
 
-**Computer Science student @ SZABIST Karachi**  
-CGPA: 3.68 | Current semester: 3.95
+# 👩‍💻 Kulsoom Jawed
 
-### What I build
-- Enterprise systems with ASP.NET MVC & Node.js
-- REST APIs with JWT authentication
-- Database-driven workflows (SQL Server, PostgreSQL)
+## *Computer Science Student | Network Engineer | Full-Stack Developer*
 
-### Currently learning
-React.js
+---
 
-### Featured projects
-⭐ **Leave Management System** – Multi-level approval workflow with RBAC  
-⭐ **PostgreSQLAPI** – JWT-authenticated REST API
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Network+Design+Enthusiast;Full-Stack+Developer;Always+learning+new+tech!)
 
-### Connect with me
-📫 kulsoomjawed851@gmail.com
+---
 
-### Achievements
-🎤 Invited Lecturer @ ICELECS 2024  
-🏆 2nd Runner Up, FOP Hackathon 2023
+</div>
+
+## 🎓 About Me
+
+I'm a **Computer Science student** at **SZABIST Karachi** with a passion for building scalable enterprise systems and designing robust network infrastructures.
+
+```python
+class Kulsoom:
+    def __init__(self):
+        self.name = "Kulsoom Jawed"
+        self.university = "SZABIST Karachi"
+        self.cgpa = 3.68
+        self.current_semester_cgpa = 3.95
+        self.interests = ["Network Design", "Full-Stack Development", "Database Systems"]
+    
+    def say_hi(self):
+        print("Building enterprise solutions that make a difference! 🚀")
+```
+
+---
+
+## 📊 Academic Performance
+
+| Semester | CGPA | Status |
+|:--------:|:----:|:------:|
+| **Overall** | **3.68** | 🎯 Excellence |
+| **Current** | **3.95** | 🔥 Dean's List |
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-005FAD?style=for-the-badge&logo=cisco&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|:-------:|:----------:|:------------|
+| **⭐ Leave Management System** | ASP.NET MVC, SQL Server | Multi-level approval workflow with RBAC |
+| **🔐 PostgreSQLAPI** | Node.js, Express, JWT | JWT-authenticated REST API with PostgreSQL |
+| **🌐 CNDC Network Project** | Cisco Packet Tracer, OSPF | Multi-campus enterprise network (6 campuses, 30+ VLANs) |
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Achievement | Event | Result |
+|:-----------|:------|:------:|
+| 🎤 **Invited Lecturer** | ICELECS 2024 | Guest Speaker |
+| 🏆 **Hackathon Winner** | FOP Hackathon 2023 | 2nd Runner Up |
+| 📊 **Dean's List** | SZABIST | Current Semester 3.95 CGPA |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULSOOM2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulsoomjawed851@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KULSOOM2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulsoom-jawed)
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Advanced Networking](https://img.shields.io/badge/Advanced%20Networking-005FAD?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+<div align="center">
+
+### 📅 Contribution Activity in Last Year
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KULSOOM2001&theme=react-dark&hide_border=true&bg_color=0D1117)
+
+---
+
+### 💫 *"Building enterprise solutions that make a difference"*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
