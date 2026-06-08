@@ -155,9 +155,6 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 [![GitHub Streak](https://github-readme-streak-stats-sable.vercel.app?user=KULSOOM2001&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=BB86FC&fire=BB86FC&currStreakLabel=00B4D8)](https://git.io/streak-stats)
 
-### 📈 Top Languages
-
-[![Top Langs](https://github-readme-stats-omega-jet.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00B4D8&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📅 Contribution Calendar
 
