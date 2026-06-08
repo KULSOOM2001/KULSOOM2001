@@ -6,7 +6,7 @@
 
 ## Computer Science Student | Network Engineer | Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;ZABEFEST+Hackathon+2026+🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;Always+learning+new+tech!+🚀)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
