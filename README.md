@@ -179,6 +179,8 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ---
 
+<div align="center">
+  
 ## 🎯 Currently Learning
 
 | 🚀 Technology | 📊 Progress | 🎯 Goal |
