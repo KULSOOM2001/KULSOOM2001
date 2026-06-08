@@ -178,10 +178,10 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 </div>
 
 ---
-
-<div align="center">
   
 ## 🎯 Currently Learning
+
+<div align="center">
 
 | 🚀 Technology | 📊 Progress | 🎯 Goal |
 |:------------:|:----------:|:-------:|
