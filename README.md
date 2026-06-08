@@ -70,15 +70,11 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ---
 
-## 📈 GitHub Stats
+## 📅 GitHub Contributions
 
-<div align="center">
+![GitHub Contributions](https://ghchart.rshah.org/KULSOOM2001)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULSOOM2001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULSOOM2001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
+*My GitHub activity calendar - updates automatically every day!*
 
 ---
 
@@ -104,11 +100,7 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 <div align="center">
 
-### 📅 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KULSOOM2001&theme=react-dark&hide_border=true&bg_color=0D1117)
-
----
+*Check out my pinned repositories below to see my latest work! 👇*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
