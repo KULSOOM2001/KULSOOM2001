@@ -4,9 +4,9 @@
 
 # 👩‍💻 Kulsoom Jawed
 
-## Computer Science Student | Network Engineer | Full-Stack Developer
+## Computer Science Student | Network Engineer | Full-Stack Developer | AI/ML Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;Always+learning+new+tech!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+👋;Network+Design+Enthusiast+🌐;Full-Stack+Developer+💻;AI+Career+Path+Predictor+🤖;Always+learning+new+tech!+🚀)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
@@ -16,16 +16,16 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science student** at **SZABIST Karachi** with a passion for building scalable enterprise systems and designing robust network infrastructures.
+I'm a **Computer Science student** at **SZABIST Karachi** with a passion for building scalable enterprise systems, designing robust network infrastructures, and developing AI-powered applications.
 
 | 👩‍💻 **Name** | 🏛️ **University** | 📚 **CGPA** | 🚀 **Semester CGPA** |
 |:------------:|:-----------------:|:-----------:|:--------------------:|
 | Kulsoom Jawed | SZABIST Karachi | 3.68 | 3.95 |
 
-| 💡 **Interests** | Network Design | Full-Stack Development | Database Systems |
-|:-----------------:|:-------------:|:----------------------:|:----------------:|
+| 💡 **Interests** | Network Design | Full-Stack Development | AI/ML | Database Systems |
+|:-----------------:|:-------------:|:----------------------:|:-----:|:----------------:|
 
-> 💬 *"Building enterprise solutions that make a difference!"*
+> 💬 *"Building intelligent solutions that make a difference!"*
 
 ---
 
@@ -37,12 +37,20 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI/ML Libraries
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -67,6 +75,22 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td width="50%">
+      <h3 align="center">🤖 AI Career Path Predictor</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/95%25_Accuracy-brightgreen?style=flat-square" />
+      </div>
+      <p align="center"><b>📊 6 Skills → 🎯 5 Careers → 🤖 95% Accuracy</b></p>
+      <p align="center">
+        <a href="https://github.com/KULSOOM2001/AI-Career-Path-Predictor">📂 Repo</a> ·
+        <a href="#">📈 Feature Importance</a> ·
+        <a href="#">🌙 Dark/Light Theme</a>
+      </p>
+      <p align="center">🧠 Decision Tree | 📊 KNN | 🎨 Modern UI</p>
+    </td>
+    <td width="50%">
       <h3 align="center">🌊 KarachiFlow</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -80,6 +104,8 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
       </p>
       <p align="center">🏆 <b>ZABEFEST Hackathon 2026</b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">⭐ Leave Management</h3>
       <div align="center">
@@ -89,8 +115,6 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
       </div>
       <p align="center"><b>🔐 RBAC · ✅ Multi-Level · 📊 Dashboard</b></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🔐 PostgreSQLAPI</h3>
       <div align="center">
@@ -100,6 +124,8 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
       </div>
       <p align="center"><b>🔒 Secure · 🗄️ RESTful · 📡 Scalable</b></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🌐 CNDC Network</h3>
       <div align="center">
@@ -109,10 +135,54 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
       </div>
       <p align="center"><b>🏢 6 Campuses · 🔀 OSPF · 📡 30+ VLANs</b></p>
     </td>
+    <td width="50%">
+      <h3 align="center">📊 Data Analysis</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+      </div>
+      <p align="center"><b>📈 Data Cleaning · 📊 Visualization · 🔍 Insights</b></p>
+    </td>
   </tr>
 </table>
 
 </div>
+
+---
+
+## 🤖 AI Career Path Predictor - Detailed
+
+<div align="center">
+
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen?style=for-the-badge)
+![Decision Tree](https://img.shields.io/badge/Decision_Tree-BEST-512BD4?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+</div>
+
+An intelligent career guidance system that recommends the perfect tech career path based on student skills using Machine Learning.
+
+### 📊 Input Features → Career Paths
+
+| Input Feature | Career Path |
+|:-------------:|:-----------:|
+| 📚 Favourite Subject | 🤖 Artificial Intelligence |
+| 💻 Coding Interest | 🔒 Cybersecurity |
+| 📐 Math Skill | 📊 Data Science |
+| 🎨 Creativity Level | 💻 Software Engineering |
+| 🗣️ Communication Skill | 🌐 Web Development |
+| 🧩 Problem Solving Skill | |
+
+### 🎯 Key Achievements
+
+- ✅ **95% Accuracy** with Decision Tree classifier
+- ✅ **Feature Importance Visualization** (Creativity: 46.8%)
+- ✅ **Dark/Light Theme Toggle** with localStorage persistence
+- ✅ **Animated Progress Bars** for confidence scores
+- ✅ **1,800 balanced dataset** (360 samples per career)
+
+[![Repository](https://img.shields.io/badge/📂_View_Repository-333?style=for-the-badge)](https://github.com/KULSOOM2001/AI-Career-Path-Predictor)
 
 ---
 
@@ -148,6 +218,7 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 |:--:|:---------------------|:------------|:---------------|
 | 🥈 | **Hackathon** | FOP 2023 | *2nd Runner Up* |
 | 🚀 | **Hackathon** | ZABEFEST 2026 | *KarachiFlow* |
+| 🤖 | **AI Project** | Career Predictor | *95% Accuracy* |
 
 ---
 
@@ -178,7 +249,7 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 </div>
 
 ---
-  
+
 ## 🎯 Currently Learning
 
 <div align="center">
@@ -189,6 +260,10 @@ I'm a **Computer Science student** at **SZABIST Karachi** with a passion for bui
 | **Cloud & DevOps** | ██████░░░░ 60% | Railway |
 | **Network Security** | ████░░░░░░ 40% | CCNA |
 | **MongoDB + Express** | ██████░░░░ 60% | REST APIs |
+| **Advanced ML** | ███░░░░░░░ 30% | Deep Learning |
+
+</div>
+
 ---
 
 <div align="center">
